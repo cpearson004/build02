@@ -3,6 +3,6 @@ public String useEnglish() {
 return "Hello World";
 }
 public String useSpanish() {
-return "Hola Mondo";
+return "Hola Mundo";
 }
 }
